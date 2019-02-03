@@ -1,4 +1,4 @@
-Software to drive the robot for the Fontys course Open Innovation.
+Software to drive the robot for the Fontys course Open Innovation. Because this is not the origional repository there are almost no commits within this repository.
 
 ![](https://raw.githubusercontent.com/Juulbl/oi-robot/master/media/images/demo.gif)
 
