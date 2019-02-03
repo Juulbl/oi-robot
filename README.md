@@ -1,6 +1,14 @@
 Software to drive the robot for the Fontys course Open Innovation.
 
+![](https://raw.githubusercontent.com/Juulbl/oi-robot/master/media/images/demo.gif)
+
 ![](https://raw.githubusercontent.com/Juulbl/oi-robot/master/media/images/image1.jpg)
+
+## Robot design/model
+
+![](https://raw.githubusercontent.com/Juulbl/oi-robot/master/media/images/design.png)
+
+The design of the robot was created using [Fusion 360](https://www.autodesk.com/products/fusion-360/overview).
 
 ## Responsibilities
 
@@ -18,6 +26,3 @@ classes/interfaces/enums I was responsible for:
 - Servo.h
 - Servo.cpp
 - Wheels.h
-
-## Demo
-
